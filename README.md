@@ -1,1 +1,1 @@
-# Parctica-Intro-a-Frontend
+# Practica-Intro-a-Frontend
